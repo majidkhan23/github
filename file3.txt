@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 it is file3, 
 file3 is changed in master
+=======
+it is file3, changes in file3 in firstbranch
+>>>>>>> firstbranch
