@@ -1,1 +1,2 @@
-it is file3
+it is file3, 
+file3 is changed in master
