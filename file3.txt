@@ -4,3 +4,4 @@ file3 is changed in master
 =======
 it is file3, changes in file3 in firstbranch
 >>>>>>> firstbranch
+file3 is changed again master
