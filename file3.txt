@@ -1,1 +1,2 @@
 it is file3, changes in file3 in firstbranch
+file 3 is changed again in first branch
