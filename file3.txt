@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 it is file3, 
 file3 is changed in master
 =======
 it is file3, changes in file3 in firstbranch
 >>>>>>> firstbranch
 file3 is changed again master
+=======
+it is file3, changes in file3 in firstbranch
+file 3 is changed again in first branch
+>>>>>>> firstbranch
